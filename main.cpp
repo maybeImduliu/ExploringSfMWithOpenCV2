@@ -65,7 +65,7 @@ int main(int argc, char** argv) {
 	//读取图片,并转换格式;加载内参
 	cv::Ptr<MultiCameraPnP> distance = new MultiCameraPnP(images,images_names,string(argv[1]));
 
-	if(argc < 3)//两个参数的情况,
+	if(argc < 3)//两个参数的情况,最简单的情况
 		distance->use_rich_features = true;
 	else
 		distance->use_rich_features = (strcmp(argv[2], "RICH") == 0);
