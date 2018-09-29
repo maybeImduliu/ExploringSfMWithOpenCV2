@@ -1,0 +1,4 @@
+/home/qin/workspace/Chapter4_StructureFromMotion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/qin/workspace/Chapter4_StructureFromMotion/cmake-build-debug/CMakeFiles/ExploringSfMExec.dir
+/home/qin/workspace/Chapter4_StructureFromMotion/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/qin/workspace/Chapter4_StructureFromMotion/cmake-build-debug/CMakeFiles/ExploringSfMLibrary.dir
