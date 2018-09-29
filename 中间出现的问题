@@ -1,0 +1,10 @@
+一SURF_GPU not in cv::gpu
+#include <opencv2/nonfree/gpu.hpp>
+
+
+二'SSBA库的配置问题,cmake的写法
+
+
+
+三\error C2039: 'toROSMsg' : is not a member of 'pcl' 
+在对应的文件下加上#include <pcl/ros/conversions.h>
